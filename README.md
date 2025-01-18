@@ -1,1 +1,2 @@
-consistent-hashing implementation in java
+# consistent-hashing
+Consistent hashing implementation in Java
